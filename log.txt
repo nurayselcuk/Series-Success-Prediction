@@ -1,0 +1,59 @@
+commit ebdc7883ebc1cb635b2e403ce45ca27d9e401fc1
+Author: Elif Karasu <113525121+elifkkarasu@users.noreply.github.com>
+Date:   Wed Jan 3 22:03:37 2024 +0300
+
+    Log dosyası oluşturuldu
+
+commit de150eabb21967d41515905913176bb664d6a683
+Author: seymagunal <seyma.gunal@hiwellapp.com>
+Date:   Tue Jan 2 20:29:36 2024 +0300
+
+    Update Classification.ipynb
+
+commit 2dac3a95cb8dc1c00a3fa5ce6fe0c2b07c30037b
+Author: Elif Karasu <113525121+elifkkarasu@users.noreply.github.com>
+Date:   Tue Jan 2 19:54:42 2024 +0300
+
+    Classification
+
+commit 2b161a4eee611e84ccc2505fdb07470a94774610
+Author: nurayselcuk <nurayselcuk34@gmail.com>
+Date:   Tue Jan 2 19:37:56 2024 +0300
+
+    Update Veri_Process.ipynb
+
+commit 92cd377daa417cc7be155bacdf9a147494208d61
+Author: Elif Karasu <113525121+elifkkarasu@users.noreply.github.com>
+Date:   Sun Dec 31 20:26:01 2023 +0300
+
+    Add files
+
+commit 9a6449f5241e42720f0b6c7d2d0195dd410dc00b
+Author: Elif Karasu <113525121+elifkkarasu@users.noreply.github.com>
+Date:   Tue Dec 26 22:34:44 2023 +0300
+
+    raw data created
+
+commit 950afc8ab36389f4bc39971dbef6cadea27aef92
+Author: Elif Karasu <113525121+elifkkarasu@users.noreply.github.com>
+Date:   Tue Dec 26 22:31:55 2023 +0300
+
+    Veri_dizi_1998_2023.csv
+
+commit cc4df7bc8756bbf129833e10fac47d3156ddcca9
+Author: nurayselcuk <nurayselcuk34@gmail.com>
+Date:   Tue Dec 26 22:04:54 2023 +0300
+
+    Oyuncu bilgilerini çeken fonksiyonlar eklendi.
+
+commit e0f431e8aa45649d1a123309dc53ccfe9c561d11
+Author: seymagunal <seyma.gunal@hiwellapp.com>
+Date:   Mon Dec 25 15:43:11 2023 +0300
+
+    new functions
+
+commit 1be520604f53dbfbb590cc8b361bbbfef5bde545
+Author: Elif Karasu <113525121+elifkkarasu@users.noreply.github.com>
+Date:   Sun Dec 24 23:36:16 2023 +0300
+
+    ilk commit
